@@ -1,0 +1,11 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.opencv" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="1"
+6-->/Users/narayan/Documents/narayan/projects-code/portfolio/android-sift/Image_Similarity_Android_OpenCV/openCVLibrary451/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="1" />
+7-->/Users/narayan/Documents/narayan/projects-code/portfolio/android-sift/Image_Similarity_Android_OpenCV/openCVLibrary451/src/main/AndroidManifest.xml
+8
+9</manifest>
